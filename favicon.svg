@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Site icon">
+  <!-- Text-free brand mark: cinnabar tile + dot. No wordmark, so a brand
+       rename stays a one-line change in src/config.ts (AGENTS.md §4.4). -->
+  <rect width="32" height="32" rx="7" fill="#e34234"/>
+  <circle cx="16" cy="16" r="7" fill="#faf8f5"/>
+  <circle cx="16" cy="16" r="2.4" fill="#b32e22"/>
+</svg>
