@@ -34,3 +34,5 @@ reaches the people who can fix it at the source.
 | Issues, review history, planning | yes | no |
 | Built HTML/CSS/assets | build artifact, not committed | yes, and only this |
 | Where to file a change | here | not here |
+
+<!-- web#97 key-rotation mirror-proof: forcing a real diff so the push path (not just skip-if-unchanged) is exercised with the new key. Throwaway branch, never merged. -->
