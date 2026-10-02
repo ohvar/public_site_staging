@@ -1,5 +1,2 @@
 User-agent: *
-Allow: /
-
-# Must match `site` in astro.config.mjs.
-Sitemap: https://ohvar.com/sitemap-index.xml
+Disallow: /
